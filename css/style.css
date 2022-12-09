@@ -1,0 +1,84 @@
+.warna1{
+    background-color: #e3f2fd;
+}
+
+.banner{
+    height: 80vh;
+    background: linear-gradient(rgba(0,0,0,0.4), rgba(0,0,0,0.4)), url('../image/banner.jpg');
+}
+
+.hkategori {
+    height: 250px;
+}
+
+.kategori-samsung {
+    background: linear-gradient(rgba(0,0,0,0.4), rgba(0,0,0,0.4)), url('../image/samsung.png');
+    background-size: cover;
+    background-position: center;
+}
+
+.kategori-vivo {
+    background: linear-gradient(rgba(0,0,0,0.4), rgba(0,0,0,0.4)), url('../image/vivo.jpg');
+    background-size: cover;
+    background-position: center;
+}
+
+.kategori-oppo {
+    background: linear-gradient(rgba(0,0,0,0.4), rgba(0,0,0,0.4)), url('../image/oppo.png');
+    background-size: cover;
+    background-position: center;
+}
+
+.kategori-xiaomi {
+    background: url('../image/xiaomi.jpg');
+    background-size: cover;
+    background-position: center;
+}
+
+.kategori-apple {
+    background: url('../image/Apple.jpg');
+    background-size: cover;
+    background-position: center;
+}
+
+.kategori-advan {
+    background: url('../image/advan.jpg');
+    background-size: cover;
+    background-position: center;
+}
+
+.kategori-huawei {
+    background: url('../image/Huawei-Logo.png');
+    background-size: cover;
+    background-position: center;
+}
+
+.kategori-nokia {
+    background: url('../image/nokia.png');
+    background-size: cover;
+    background-position: center;
+}
+
+.kategori-evercoss {
+    background: url('../image/evercoss.png');
+    background-size: cover;
+    background-position: center;
+}
+
+.text-harga{
+    font-size: 20px;
+    color: crimson;
+    font-weight: bold;
+}
+
+.image-box{
+    height: 250px;
+}
+
+.image-box img {
+    height: 100%;
+    width: 100%;
+    object-fit: cover;
+    object-position: top;
+    size: 100px;
+}
